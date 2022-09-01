@@ -1,6 +1,10 @@
 
 # Time-Series-Modeling-Forecasting-Zillow-Real-Estate-Prices
 
+![istockphoto-1319269543-170667a](https://user-images.githubusercontent.com/104272695/187897312-ab64670a-2003-41d4-b34f-d260ac56393d.jpeg)
+
+
+
 ## 1 Business Understanding
 ### 1.1 Introduction
 Knowing the best moves to make and risks to manage in the real estate industry is very vital to succeeding in the field.
